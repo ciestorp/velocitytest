@@ -1,0 +1,38 @@
+[
+  {
+    "country": "United States",
+    "continent": "North America",
+    "oneRateIoT": 5,
+    "oneRate": 3
+  },
+  {
+    "country": "Canada",
+    "continent": "North America",
+    "oneRateIoT": 4,
+    "oneRate": 3
+  },
+  {
+    "country": "Mexico",
+    "continent": "North America",
+    "oneRateIoT": 4,
+    "oneRate": 2
+  },
+  {
+    "country": "Austria",
+    "continent": "Europe",
+    "oneRateIoT": 4,
+    "oneRate": 4
+  },
+  {
+    "country": "Belgium",
+    "continent": "Europe",
+    "oneRateIoT": 6,
+    "oneRate": 6
+  },
+  {
+    "country": "Bulgaria",
+    "continent": "Europe",
+    "oneRateIoT": 6,
+    "oneRate": 6
+  }
+]
