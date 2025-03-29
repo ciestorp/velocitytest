@@ -1,38 +1,1122 @@
 [
   {
-    "country": "United States",
-    "continent": "North America",
-    "oneRateIoT": 5,
-    "oneRate": 3
+    "Country": "United States",
+    "Continent": "North America",
+    "ONeRATE IoT": 5,
+    "ONeRATE": 3,
+    "ONERATE IoT PLUS": 4,
+    "ONeRATE PLUS": 3
   },
   {
-    "country": "Canada",
-    "continent": "North America",
-    "oneRateIoT": 4,
-    "oneRate": 3
+    "Country": "Puerto Rico",
+    "Continent": "North America",
+    "ONeRATE IoT": 5,
+    "ONeRATE": 4,
+    "ONERATE IoT PLUS": 5,
+    "ONeRATE PLUS": 4
   },
   {
-    "country": "Mexico",
-    "continent": "North America",
-    "oneRateIoT": 4,
-    "oneRate": 2
+    "Country": "Canada",
+    "Continent": "North America",
+    "ONeRATE IoT": 4,
+    "ONeRATE": 3,
+    "ONERATE IoT PLUS": 4,
+    "ONeRATE PLUS": 3
   },
   {
-    "country": "Austria",
-    "continent": "Europe",
-    "oneRateIoT": 4,
-    "oneRate": 4
+    "Country": "Mexico",
+    "Continent": "North America",
+    "ONeRATE IoT": 4,
+    "ONeRATE": 2,
+    "ONERATE IoT PLUS": 4,
+    "ONeRATE PLUS": 2
   },
   {
-    "country": "Belgium",
-    "continent": "Europe",
-    "oneRateIoT": 6,
-    "oneRate": 6
+    "Country": "Austria",
+    "Continent": "Europe",
+    "ONeRATE IoT": 4,
+    "ONeRATE": 4,
+    "ONERATE IoT PLUS": 4,
+    "ONeRATE PLUS": 4
   },
   {
-    "country": "Bulgaria",
-    "continent": "Europe",
-    "oneRateIoT": 6,
-    "oneRate": 6
+    "Country": "Belgium",
+    "Continent": "Europe",
+    "ONeRATE IoT": 6,
+    "ONeRATE": 6,
+    "ONERATE IoT PLUS": 6,
+    "ONeRATE PLUS": 6
+  },
+  {
+    "Country": "Bulgaria",
+    "Continent": "Europe",
+    "ONeRATE IoT": 6,
+    "ONeRATE": 6,
+    "ONERATE IoT PLUS": 6,
+    "ONeRATE PLUS": 6
+  },
+  {
+    "Country": "Croatia",
+    "Continent": "Europe",
+    "ONeRATE IoT": 6,
+    "ONeRATE": 6,
+    "ONERATE IoT PLUS": 6,
+    "ONeRATE PLUS": 6
+  },
+  {
+    "Country": "Cyprus",
+    "Continent": "Europe",
+    "ONeRATE IoT": 6,
+    "ONeRATE": 6,
+    "ONERATE IoT PLUS": 6,
+    "ONeRATE PLUS": 6
+  },
+  {
+    "Country": "Czech Republic",
+    "Continent": "Europe",
+    "ONeRATE IoT": 6,
+    "ONeRATE": 6,
+    "ONERATE IoT PLUS": 6,
+    "ONeRATE PLUS": 6
+  },
+  {
+    "Country": "Denmark",
+    "Continent": "Europe",
+    "ONeRATE IoT": 5,
+    "ONeRATE": 5,
+    "ONERATE IoT PLUS": 5,
+    "ONeRATE PLUS": 5
+  },
+  {
+    "Country": "Estonia",
+    "Continent": "Europe",
+    "ONeRATE IoT": 3,
+    "ONeRATE": 3,
+    "ONERATE IoT PLUS": 3,
+    "ONeRATE PLUS": 3
+  },
+  {
+    "Country": "Faroe Islands",
+    "Continent": "Europe",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": 1
+  },
+  {
+    "Country": "Finland",
+    "Continent": "Europe",
+    "ONeRATE IoT": 4,
+    "ONeRATE": 4,
+    "ONERATE IoT PLUS": 4,
+    "ONeRATE PLUS": 4
+  },
+  {
+    "Country": "France",
+    "Continent": "Europe",
+    "ONeRATE IoT": 3,
+    "ONeRATE": 3,
+    "ONERATE IoT PLUS": 3,
+    "ONeRATE PLUS": 3
+  },
+  {
+    "Country": "Germany",
+    "Continent": "Europe",
+    "ONeRATE IoT": 4,
+    "ONeRATE": 4,
+    "ONERATE IoT PLUS": 4,
+    "ONeRATE PLUS": 4
+  },
+  {
+    "Country": "Gibraltar",
+    "Continent": "Europe",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 2,
+    "ONeRATE PLUS": 2
+  },
+  {
+    "Country": "Greece",
+    "Continent": "Europe",
+    "ONeRATE IoT": 3,
+    "ONeRATE": 3,
+    "ONERATE IoT PLUS": 3,
+    "ONeRATE PLUS": 3
+  },
+  {
+    "Country": "Guernsey",
+    "Continent": "Europe",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": "X"
+  },
+  {
+    "Country": "Hungary",
+    "Continent": "Europe",
+    "ONeRATE IoT": 3,
+    "ONeRATE": 3,
+    "ONERATE IoT PLUS": 3,
+    "ONeRATE PLUS": 3
+  },
+  {
+    "Country": "Iceland",
+    "Continent": "Europe",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 3,
+    "ONeRATE PLUS": 3
+  },
+  {
+    "Country": "Ireland",
+    "Continent": "Europe",
+    "ONeRATE IoT": 4,
+    "ONeRATE": 4,
+    "ONERATE IoT PLUS": 4,
+    "ONeRATE PLUS": 4
+  },
+  {
+    "Country": "Italy",
+    "Continent": "Europe",
+    "ONeRATE IoT": 4,
+    "ONeRATE": 4,
+    "ONERATE IoT PLUS": 4,
+    "ONeRATE PLUS": 4
+  },
+  {
+    "Country": "Jersey",
+    "Continent": "Europe",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": 1
+  },
+  {
+    "Country": "Kosovo",
+    "Continent": "Europe",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": 1
+  },
+  {
+    "Country": "Latvia",
+    "Continent": "Europe",
+    "ONeRATE IoT": 2,
+    "ONeRATE": 2,
+    "ONERATE IoT PLUS": 2,
+    "ONeRATE PLUS": 2
+  },
+  {
+    "Country": "Liechtenstein",
+    "Continent": "Europe",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 2,
+    "ONeRATE PLUS": 2
+  },
+  {
+    "Country": "Lithuania",
+    "Continent": "Europe",
+    "ONeRATE IoT": 2,
+    "ONeRATE": 2,
+    "ONERATE IoT PLUS": 2,
+    "ONeRATE PLUS": 2
+  },
+  {
+    "Country": "Luxembourg",
+    "Continent": "Europe",
+    "ONeRATE IoT": 3,
+    "ONeRATE": 3,
+    "ONERATE IoT PLUS": 3,
+    "ONeRATE PLUS": 3
+  },
+  {
+    "Country": "Macedonia",
+    "Continent": "Europe",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 3,
+    "ONeRATE PLUS": 2
+  },
+  {
+    "Country": "Malta",
+    "Continent": "Europe",
+    "ONeRATE IoT": 2,
+    "ONeRATE": 2,
+    "ONERATE IoT PLUS": 3,
+    "ONeRATE PLUS": 2
+  },
+  {
+    "Country": "Moldova",
+    "Continent": "Europe",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 3,
+    "ONeRATE PLUS": 2
+  },
+  {
+    "Country": "Monaco",
+    "Continent": "Europe",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": 1
+  },
+  {
+    "Country": "Montenegro",
+    "Continent": "Europe",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 3,
+    "ONeRATE PLUS": 2
+  },
+  {
+    "Country": "Netherlands",
+    "Continent": "Europe",
+    "ONeRATE IoT": 3,
+    "ONeRATE": 3,
+    "ONERATE IoT PLUS": 3,
+    "ONeRATE PLUS": 3
+  },
+  {
+    "Country": "Norway",
+    "Continent": "Europe",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 2,
+    "ONeRATE PLUS": 2
+  },
+  {
+    "Country": "Poland",
+    "Continent": "Europe",
+    "ONeRATE IoT": 4,
+    "ONeRATE": 4,
+    "ONERATE IoT PLUS": 4,
+    "ONeRATE PLUS": 4
+  },
+  {
+    "Country": "Portugal",
+    "Continent": "Europe",
+    "ONeRATE IoT": 3,
+    "ONeRATE": 3,
+    "ONERATE IoT PLUS": 3,
+    "ONeRATE PLUS": 3
+  },
+  {
+    "Country": "Romania",
+    "Continent": "Europe",
+    "ONeRATE IoT": 4,
+    "ONeRATE": 4,
+    "ONERATE IoT PLUS": 4,
+    "ONeRATE PLUS": 4
+  },
+  {
+    "Country": "Serbia",
+    "Continent": "Europe",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 2,
+    "ONeRATE PLUS": 2
+  },
+  {
+    "Country": "Slovakia",
+    "Continent": "Europe",
+    "ONeRATE IoT": 2,
+    "ONeRATE": 2,
+    "ONERATE IoT PLUS": 2,
+    "ONeRATE PLUS": 2
+  },
+  {
+    "Country": "Slovenia",
+    "Continent": "Europe",
+    "ONeRATE IoT": 3,
+    "ONeRATE": 3,
+    "ONERATE IoT PLUS": 3,
+    "ONeRATE PLUS": 3
+  },
+  {
+    "Country": "Spain",
+    "Continent": "Europe",
+    "ONeRATE IoT": 5,
+    "ONeRATE": 5,
+    "ONERATE IoT PLUS": 5,
+    "ONeRATE PLUS": 5
+  },
+  {
+    "Country": "Sweden",
+    "Continent": "Europe",
+    "ONeRATE IoT": 4,
+    "ONeRATE": 4,
+    "ONERATE IoT PLUS": 4,
+    "ONeRATE PLUS": 4
+  },
+  {
+    "Country": "Switzerland",
+    "Continent": "Europe",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 3,
+    "ONeRATE PLUS": 3
+  },
+  {
+    "Country": "Ukraine",
+    "Continent": "Europe",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 3,
+    "ONeRATE PLUS": 2
+  },
+  {
+    "Country": "Untied Kingdom",
+    "Continent": "Europe",
+    "ONeRATE IoT": 9,
+    "ONeRATE": 8,
+    "ONERATE IoT PLUS": 9,
+    "ONeRATE PLUS": 9
+  },
+  {
+    "Country": "Algeria",
+    "Continent": "Africa",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 2,
+    "ONeRATE PLUS": "X"
+  },
+  {
+    "Country": "Botswana",
+    "Continent": "Africa",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Continent": "Africa",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": 1
+  },
+  {
+    "Country": "Cape Verde",
+    "Continent": "Africa",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": "X"
+  },
+  {
+    "Country": "Chad",
+    "Continent": "Africa",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": "X"
+  },
+  {
+    "Country": "Congo",
+    "Continent": "Africa",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 2,
+    "ONeRATE PLUS": "X"
+  },
+  {
+    "Country": "Congo Drc",
+    "Continent": "Africa",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 2,
+    "ONeRATE PLUS": 1
+  },
+  {
+    "Country": "Gabon",
+    "Continent": "Africa",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": "X"
+  },
+  {
+    "Country": "Gambia",
+    "Continent": "Africa",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": "X"
+  },
+  {
+    "Country": "Ghana",
+    "Continent": "Africa",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 2,
+    "ONeRATE PLUS": 2
+  },
+  {
+    "Country": "Guinea",
+    "Continent": "Africa",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": 1
+  },
+  {
+    "Country": "Guinea-Bissau",
+    "Continent": "Africa",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": 1
+  },
+  {
+    "Country": "Ivory Coast",
+    "Continent": "Africa",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": 1
+  },
+  {
+    "Country": "Kenya",
+    "Continent": "Africa",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": 1
+  },
+  {
+    "Country": "Lesotho",
+    "Continent": "Africa",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": 1
+  },
+  {
+    "Country": "Liberia",
+    "Continent": "Africa",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": 1
+  },
+  {
+    "Country": "Libya",
+    "Continent": "Africa",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": 1
+  },
+  {
+    "Country": "Madagascar",
+    "Continent": "Africa",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": "X"
+  },
+  {
+    "Country": "Malawi",
+    "Continent": "Africa",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": "X"
+  },
+  {
+    "Country": "Morocco",
+    "Continent": "Africa",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 3,
+    "ONeRATE PLUS": 1
+  },
+  {
+    "Country": "Mozambique",
+    "Continent": "Africa",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 2,
+    "ONeRATE PLUS": 1
+  },
+  {
+    "Country": "Niger",
+    "Continent": "Africa",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": "X"
+  },
+  {
+    "Country": "NIgeria",
+    "Continent": "Africa",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 3,
+    "ONeRATE PLUS": 2
+  },
+  {
+    "Country": "Reunion",
+    "Continent": "Africa",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": 1
+  },
+  {
+    "Country": "Rwanda",
+    "Continent": "Africa",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 2,
+    "ONeRATE PLUS": "X"
+  },
+  {
+    "Country": "Seychelles",
+    "Continent": "Africa",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": "X"
+  },
+  {
+    "Country": "South Africa",
+    "Continent": "Africa",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 2,
+    "ONeRATE PLUS": 2
+  },
+  {
+    "Country": "South Sudan",
+    "Continent": "Africa",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": 1
+  },
+  {
+    "Country": "Sudan",
+    "Continent": "Africa",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": "X"
+  },
+  {
+    "Country": "Sudan (The Republic of)",
+    "Continent": "Africa",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": 1
+  },
+  {
+    "Country": "Swaziland",
+    "Continent": "Africa",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": 1
+  },
+  {
+    "Country": "Tanzania",
+    "Continent": "Africa",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 2,
+    "ONeRATE PLUS": 1
+  },
+  {
+    "Country": "Tunisia",
+    "Continent": "Africa",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 3,
+    "ONeRATE PLUS": 2
+  },
+  {
+    "Country": "Uganda",
+    "Continent": "Africa",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 2,
+    "ONeRATE PLUS": 1
+  },
+  {
+    "Country": "Zambia",
+    "Continent": "Africa",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 2,
+    "ONeRATE PLUS": 1
+  },
+  {
+    "Country": "Egypt",
+    "Continent": "Africa",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 3,
+    "ONeRATE PLUS": "X"
+  },
+  {
+    "Country": "AFghanistan",
+    "Continent": "Asia",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 3,
+    "ONeRATE PLUS": 1
+  },
+  {
+    "Country": "Bangladesh",
+    "Continent": "Asia",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": 1
+  },
+  {
+    "Country": "Brunei",
+    "Continent": "Asia",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": "X"
+  },
+  {
+    "Country": "Cambodia ",
+    "Continent": "Asia",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 2,
+    "ONeRATE PLUS": 1
+  },
+  {
+    "Country": "China",
+    "Continent": "Asia",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 3,
+    "ONeRATE PLUS": 2
+  },
+  {
+    "Country": "Hong Kong",
+    "Continent": "Asia",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 4,
+    "ONeRATE PLUS": 2
+  },
+  {
+    "Country": "India",
+    "Continent": "Asia",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 6,
+    "ONeRATE PLUS": 4
+  },
+  {
+    "Country": "Indonesia",
+    "Continent": "Asia",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 4,
+    "ONeRATE PLUS": 3
+  },
+  {
+    "Country": "Iraq",
+    "Continent": "Asia",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 2,
+    "ONeRATE PLUS": 1
+  },
+  {
+    "Country": "Japan",
+    "Continent": "Asia",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 2,
+    "ONeRATE PLUS": 1
+  },
+  {
+    "Country": "Korea, Republic of",
+    "Continent": "Asia",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 2,
+    "ONeRATE PLUS": 2
+  },
+  {
+    "Country": "Laos",
+    "Continent": "Asia",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 2,
+    "ONeRATE PLUS": "X"
+  },
+  {
+    "Country": "Macau",
+    "Continent": "Asia",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 2,
+    "ONeRATE PLUS": 2
+  },
+  {
+    "Country": "Malaysia",
+    "Continent": "Asia",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 4,
+    "ONeRATE PLUS": 4
+  },
+  {
+    "Country": "Mongolia",
+    "Continent": "Asia",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 2,
+    "ONeRATE PLUS": "X"
+  },
+  {
+    "Country": "Myanmar ",
+    "Continent": "Asia",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 2,
+    "ONeRATE PLUS": 1
+  },
+  {
+    "Country": "Pakistan",
+    "Continent": "Asia",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 3,
+    "ONeRATE PLUS": 2
+  },
+  {
+    "Country": "Philippines",
+    "Continent": "Asia",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 2,
+    "ONeRATE PLUS": 2
+  },
+  {
+    "Country": "Singapore",
+    "Continent": "Asia",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 3,
+    "ONeRATE PLUS": 2
+  },
+  {
+    "Country": "South Korea",
+    "Continent": "Asia",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 2,
+    "ONeRATE PLUS": 2
+  },
+  {
+    "Country": "Sri Lanka",
+    "Continent": "Asia",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 3,
+    "ONeRATE PLUS": 1
+  },
+  {
+    "Country": "Taiwan",
+    "Continent": "Asia",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 5,
+    "ONeRATE PLUS": 5
+  },
+  {
+    "Country": "Thailand",
+    "Continent": "Asia",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 5,
+    "ONeRATE PLUS": 4
+  },
+  {
+    "Country": "Uzbekistan",
+    "Continent": "Asia",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 3,
+    "ONeRATE PLUS": 1
+  },
+  {
+    "Country": "Vietnam",
+    "Continent": "Asia",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 4,
+    "ONeRATE PLUS": 4
+  },
+  {
+    "Country": "Armenia",
+    "Continent": "Asia",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 2,
+    "ONeRATE PLUS": 1
+  },
+  {
+    "Country": "Azerbaijan",
+    "Continent": "Asia",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 2,
+    "ONeRATE PLUS": 1
+  },
+  {
+    "Country": "Georgia",
+    "Continent": "Asia",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 3,
+    "ONeRATE PLUS": 1
+  },
+  {
+    "Country": "Kazakhstan",
+    "Continent": "Asia",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 2,
+    "ONeRATE PLUS": 2
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "Continent": "Asia",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": 1
+  },
+  {
+    "Country": "Bahrain",
+    "Continent": "Asia",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 2,
+    "ONeRATE PLUS": 2
+  },
+  {
+    "Country": "Israel",
+    "Continent": "Asia",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 3,
+    "ONeRATE PLUS": 3
+  },
+  {
+    "Country": "Jordan",
+    "Continent": "Asia",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 2,
+    "ONeRATE PLUS": "X"
+  },
+  {
+    "Country": "Kuwait ",
+    "Continent": "Asia",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 3,
+    "ONeRATE PLUS": 2
+  },
+  {
+    "Country": "Oman",
+    "Continent": "Asia",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": "X"
+  },
+  {
+    "Country": "Qatar",
+    "Continent": "Asia",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 2,
+    "ONeRATE PLUS": 1
+  },
+  {
+    "Country": "Saudi Arabia",
+    "Continent": "Asia",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 3,
+    "ONeRATE PLUS": 3
+  },
+  {
+    "Country": "Turkey",
+    "Continent": "Asia",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 3,
+    "ONeRATE PLUS": 3
+  },
+  {
+    "Country": "United Arab Emirates",
+    "Continent": "Asia",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 2,
+    "ONeRATE PLUS": "X"
+  },
+  {
+    "Country": "Yemen",
+    "Continent": "Asia",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 2,
+    "ONeRATE PLUS": "X"
+  },
+  {
+    "Country": "Australia",
+    "Continent": "Oceania",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 3,
+    "ONeRATE PLUS": 3
+  },
+  {
+    "Country": "Fiji",
+    "Continent": "Oceania",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": "X"
+  },
+  {
+    "Country": "New Zealand",
+    "Continent": "Oceania",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 3,
+    "ONeRATE PLUS": 2
+  },
+  {
+    "Country": "Guam",
+    "Continent": "Oceania",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": "X"
+  },
+  {
+    "Country": "Argentina",
+    "Continent": "South America",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 3,
+    "ONeRATE PLUS": 2
+  },
+  {
+    "Country": "Bolivia",
+    "Continent": "South America",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 2,
+    "ONeRATE PLUS": 1
+  },
+  {
+    "Country": "Brazil",
+    "Continent": "South America",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 3,
+    "ONeRATE PLUS": 2
+  },
+  {
+    "Country": "Chile",
+    "Continent": "South America",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 2,
+    "ONeRATE PLUS": 2
+  },
+  {
+    "Country": "Colombia",
+    "Continent": "South America",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 3,
+    "ONeRATE PLUS": 3
+  },
+  {
+    "Country": "Ecuador",
+    "Continent": "South America",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 3,
+    "ONeRATE PLUS": 2
+  },
+  {
+    "Country": "Guyana",
+    "Continent": "South America",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": 1
+  },
+  {
+    "Country": "Netherlands Antilles",
+    "Continent": "South America",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 2,
+    "ONeRATE PLUS": "X"
+  },
+  {
+    "Country": "Paraguay",
+    "Continent": "South America",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 2,
+    "ONeRATE PLUS": 1
+  },
+  {
+    "Country": "Peru",
+    "Continent": "South America",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 4,
+    "ONeRATE PLUS": 3
+  },
+  {
+    "Country": "Suriname",
+    "Continent": "South America",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": "X"
+  },
+  {
+    "Country": "Uruguay",
+    "Continent": "South America",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 2,
+    "ONeRATE PLUS": 2
+  },
+  {
+    "Country": "Venezuela",
+    "Continent": "South America",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": 1
   }
 ]
