@@ -4,22 +4,14 @@
     "Continent": "North America",
     "ONeRATE IoT": 5,
     "ONeRATE": 3,
-    "ONERATE IoT PLUS": 4,
-    "ONeRATE PLUS": 3
-  },
-  {
-    "Country": "Puerto Rico",
-    "Continent": "North America",
-    "ONeRATE IoT": 5,
-    "ONeRATE": 4,
-    "ONERATE IoT PLUS": 5,
-    "ONeRATE PLUS": 4
+    "ONERATE IoT PLUS": 6,
+    "ONeRATE PLUS": 5
   },
   {
     "Country": "Canada",
     "Continent": "North America",
     "ONeRATE IoT": 4,
-    "ONeRATE": 3,
+    "ONeRATE": 1,
     "ONERATE IoT PLUS": 4,
     "ONeRATE PLUS": 3
   },
@@ -29,7 +21,239 @@
     "ONeRATE IoT": 4,
     "ONeRATE": 2,
     "ONERATE IoT PLUS": 4,
+    "ONeRATE PLUS": 3
+  },
+  {
+    "Country": "Anguilla",
+    "Continent": "North America",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": "X"
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "Continent": "North America",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": "X"
+  },
+  {
+    "Country": "Aruba",
+    "Continent": "North America",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": 1
+  },
+  {
+    "Country": "Barbados",
+    "Continent": "North America",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": "X"
+  },
+  {
+    "Country": "Belize",
+    "Continent": "North America",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": "X"
+  },
+  {
+    "Country": "Bermuda",
+    "Continent": "North America",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": 1
+  },
+  {
+    "Country": "Cayman Islands",
+    "Continent": "North America",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": "X"
+  },
+  {
+    "Country": "Costa Rica",
+    "Continent": "North America",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": 1
+  },
+  {
+    "Country": "Dominica",
+    "Continent": "North America",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": "X"
+  },
+  {
+    "Country": "Dominican Republic",
+    "Continent": "North America",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 3,
     "ONeRATE PLUS": 2
+  },
+  {
+    "Country": "El Salvador",
+    "Continent": "North America",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": 1
+  },
+  {
+    "Country": "Greenland",
+    "Continent": "North America",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": 1
+  },
+  {
+    "Country": "Grenada",
+    "Continent": "North America",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": "X"
+  },
+  {
+    "Country": "Guadeloupe",
+    "Continent": "North America",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 2,
+    "ONeRATE PLUS": 1
+  },
+  {
+    "Country": "Guatemala",
+    "Continent": "North America",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 3,
+    "ONeRATE PLUS": 2
+  },
+  {
+    "Country": "Honduras",
+    "Continent": "North America",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 2,
+    "ONeRATE PLUS": 1
+  },
+  {
+    "Country": "Jamaica",
+    "Continent": "North America",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 2,
+    "ONeRATE PLUS": "X"
+  },
+  {
+    "Country": "Montserrat",
+    "Continent": "North America",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": "X"
+  },
+  {
+    "Country": "Nicaragua",
+    "Continent": "North America",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 2,
+    "ONeRATE PLUS": 2
+  },
+  {
+    "Country": "Panama",
+    "Continent": "North America",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 3,
+    "ONeRATE PLUS": 1
+  },
+  {
+    "Country": "Saint Kitts and Nevis",
+    "Continent": "North America",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": "X"
+  },
+  {
+    "Country": "Saint Vincent and the Grenadines",
+    "Continent": "North America",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": "X"
+  },
+  {
+    "Country": "St. Lucia",
+    "Continent": "North America",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": "X"
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "Continent": "North America",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": "X"
+  },
+  {
+    "Country": "Turks and Caicos Islands",
+    "Continent": "North America",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 2,
+    "ONeRATE PLUS": "X"
+  },
+  {
+    "Country": "British Virgin Islands",
+    "Continent": "North America",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 3,
+    "ONeRATE PLUS": "X"
+  },
+  {
+    "Country": "Puerto Rico",
+    "Continent": "North America",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": 1
+  },
+  {
+    "Country": "Albania",
+    "Continent": "Europe",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 3,
+    "ONeRATE PLUS": 2
+  },
+  {
+    "Country": "Andorra",
+    "Continent": "Europe",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": 1
   },
   {
     "Country": "Austria",
@@ -46,6 +270,14 @@
     "ONeRATE": 6,
     "ONERATE IoT PLUS": 6,
     "ONeRATE PLUS": 6
+  },
+  {
+    "Country": "Bosnia & Herzegovina",
+    "Continent": "Europe",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 3,
+    "ONeRATE PLUS": 3
   },
   {
     "Country": "Bulgaria",
@@ -688,7 +920,7 @@
     "ONeRATE PLUS": "X"
   },
   {
-    "Country": "Cambodia ",
+    "Country": "Cambodia",
     "Continent": "Asia",
     "ONeRATE IoT": "X",
     "ONeRATE": "X",
@@ -784,7 +1016,7 @@
     "ONeRATE PLUS": "X"
   },
   {
-    "Country": "Myanmar ",
+    "Country": "Myanmar",
     "Continent": "Asia",
     "ONeRATE IoT": "X",
     "ONeRATE": "X",
@@ -928,7 +1160,7 @@
     "ONeRATE PLUS": "X"
   },
   {
-    "Country": "Kuwait ",
+    "Country": "Kuwait",
     "Continent": "Asia",
     "ONeRATE IoT": "X",
     "ONeRATE": "X",
