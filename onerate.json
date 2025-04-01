@@ -8,7 +8,7 @@
     "ONeRATE PLUS": 5
   },
   {
-    "Country": "Canada",
+    "Country": "Canada*",
     "Continent": "North America",
     "ONeRATE IoT": 4,
     "ONeRATE": 1,
@@ -928,7 +928,7 @@
     "ONeRATE PLUS": 1
   },
   {
-    "Country": "China",
+    "Country": "China*",
     "Continent": "Asia",
     "ONeRATE IoT": "X",
     "ONeRATE": "X",
@@ -1192,7 +1192,7 @@
     "ONeRATE PLUS": 3
   },
   {
-    "Country": "Turkey",
+    "Country": "Turkey*",
     "Continent": "Asia",
     "ONeRATE IoT": "X",
     "ONeRATE": "X",
@@ -1216,7 +1216,7 @@
     "ONeRATE PLUS": "X"
   },
   {
-    "Country": "Australia",
+    "Country": "Australia*",
     "Continent": "Oceania",
     "ONeRATE IoT": "X",
     "ONeRATE": "X",
@@ -1264,7 +1264,7 @@
     "ONeRATE PLUS": 1
   },
   {
-    "Country": "Brazil",
+    "Country": "Brazil*",
     "Continent": "South America",
     "ONeRATE IoT": "X",
     "ONeRATE": "X",
